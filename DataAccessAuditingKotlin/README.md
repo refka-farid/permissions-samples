@@ -32,7 +32,7 @@ For more information, check out [the documentation](https://developer.android.co
 Pre-requisites
 --------------
 
-- Android 11 SDK
+- Android 11 SDK, Android SDK 30
 
 Screenshots
 -------------
