@@ -27,7 +27,7 @@ auditing allows your OnOpNotedCallback to examine information about the call. Us
 collector object can tell whether the call came from your app or the SDK by looking at the app's
 current status, such as the current thread's stack trace.
 
-For more information, check out [the documentation](https://developer.android.com/preview/privacy/permissions#audit-by-feature).
+For more information, check out [the documentation](https://developer.android.com/guide/topics/data/audit-access?hl=en).
 
 Pre-requisites
 --------------
